@@ -1,0 +1,19 @@
+
+Format :
+TipeFile_NamaVariable_DiManaVariable_Status
+
+
+Contoh :
+
+Component :
+Image_BackgroundImage_Level1
+Button_StartGame_MainMenu
+
+Resources :
+Icon_ButtonSetting_PauseMenu_Normal
+Icon_ButtonSetting_PauseMenu_Hover
+
+
+
+
+
